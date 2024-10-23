@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "213228076795",
+    "firebase_url": "https://bluesea-k-beauty-default-rtdb.firebaseio.com",
+    "project_id": "bluesea-k-beauty",
+    "storage_bucket": "bluesea-k-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213228076795:android:900d061baa81157f49ba5e",
+        "android_client_info": {
+          "package_name": "blueseakbeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkzqNM47DEqplRUJNVBV8lSQ1bnE8Mnww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
