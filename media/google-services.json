@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "213228076795",
-    "firebase_url": "https://bluesea-k-beauty-default-rtdb.firebaseio.com",
-    "project_id": "bluesea-k-beauty",
-    "storage_bucket": "bluesea-k-beauty.appspot.com"
+    "project_number": "391083010003",
+    "firebase_url": "https://mai-center-edcd8-default-rtdb.firebaseio.com",
+    "project_id": "mai-center-edcd8",
+    "storage_bucket": "mai-center-edcd8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:213228076795:android:900d061baa81157f49ba5e",
+        "mobilesdk_app_id": "1:391083010003:android:32b726c9cae24a80453126",
         "android_client_info": {
-          "package_name": "blueseakbeauty.ezs"
+          "package_name": "m.aicenter"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAkzqNM47DEqplRUJNVBV8lSQ1bnE8Mnww"
+          "current_key": "AIzaSyAv9uUsL70TbY-uxVRTwCRNEU8YLfgd7o0"
         }
       ],
       "services": {
